@@ -35,12 +35,12 @@ bot = Client('DROPLINKBOT',
 async def start(bot, message):
     await message.reply(
         f"**Hi {message.chat.first_name}!**\n\n"
-        "<i><u><b>I'm a specialised bot for shortening <a href=\"https://bit.ly/3pkR1ft\">https://droplink.co</a> .\n 🔰📍Made by @TEAM_SILENT_KING 🔰📍. \n ⚜️ MY DEV :- @ITS_NOT_ROMEO ⚜️ <i><u></b>")
+        "<i><u><b>I'm a specialised bot for shortening <a href=\"https://bit.ly/3pkR1ft\">https://droplink.co</a> .  </i></u></b>\n <i><u><b>USE /help FOR MORE \n USE /SOURCE FOR SOURCE CODE OF BOT \n 🔰📍Made by @TEAM_SILENT_KING 🔰📍. \n ⚜️ MY DEV :- @ITS_NOT_ROMEO ⚜️ </i></u></b>")
 
 @bot.on_message(filters.command('help') & filters.private)
 async def start(bot, message):
       await message.reply(
-          f"**__👻👻 HeLlo {message.chat.first_name} 👻👻.\n Send Your Link 1st❕ I Will Send Short Link 👍 \n\n🔰TRY MY OTHER BOTS 🔰  \n✅ ☞ ᴍᴏᴠɪᴇ ꜱᴇᴀʀᴄʜ ʙᴏᴛ ⭐ ☞ @STORE_FOR_ALL_BOT  \n✅ ☞ ᴅʀᴏᴘʟɪɴᴋ ꜱʜᴏʀᴛ ☞@DROPLINK_CREATOR_BOT \n✅ ☞ URLSHORTX ☞ @link_shorter_op_bot \n✅ ☞ OTHER SHORTER ☞ @STORE_FOR_ALL_BOT  \n✅ ☞ Group Manager Bot ☞ @STORE_FOR_ALL_BOT  \n\n 🔰 Powered by TEAM SILENT KING 🔰 __")
+          f"**__👻👻 HeLlo {message.chat.first_name} 👻👻.\n Send Your Link 1st❕ I Will Send Short Link 👍 \n\n🔰TRY MY OTHER BOTS 🔰  \n✅ ☞ ᴍᴏᴠɪᴇ ꜱᴇᴀʀᴄʜ ʙᴏᴛ ⭐ ☞ @STORE_FOR_ALL_BOT  \n✅ ☞ ᴅʀᴏᴘʟɪɴᴋ ꜱʜᴏʀᴛ ☞ @DROPLINK_CREATOR_BOT \n✅ ☞ URLSHORTX ☞ @link_shorter_op_bot \n✅ ☞ OTHER SHORTER ☞ @STORE_FOR_ALL_BOT  \n✅ ☞ Group Manager Bot ☞ @STORE_FOR_ALL_BOT  \n\n 🔰 Powered by TEAM SILENT KING 🔰 __")
 
 
 @bot.on_message(filters.command('source') & filters.private)
