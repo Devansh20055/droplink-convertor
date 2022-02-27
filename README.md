@@ -16,7 +16,7 @@ Make short link by using [DROPLINK ](https://bit.ly/3pkR1ft) API key. Made by [@
 * `BOT_TOKEN`: Create a bot using [@BotFather](https://t.me/BotFather), and get the Telegram API token.
 * `API_ID`: Get this value from [my.telegram.org](https://my.telegram.org/apps).
 * `API_HASH`: Get this value from [my.telegram.org](https://my.telegram.org/apps).
-* `API_KEY`: Create [URLSHORTX](https://bit.ly/3pkR1ft) account then get this value from [URLSHORTX API](https://droplink.co/api).
+* `API_KEY`: Create [DROPLINK ACCOUNT ](https://bit.ly/3pkR1ft) account then get this value from [DROPLINK  API](https://droplink.co/api).
 
 ### How to Use?
 
