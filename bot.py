@@ -35,12 +35,12 @@ bot = Client('DROPLINKBOT',
 async def start(bot, message):
     await message.reply(
         f"**Hi {message.chat.first_name}!**\n\n"
-        "<i><u><b>I'm a specialised bot for shortening <a href=\"https://bit.ly/3pkR1ft\">https://droplink.co</a> .  </i></u></b>\n\n  <i><u><b>USE /help FOR MORE \n\n  USE /SOURCE FOR SOURCE CODE OF BOT \n\n 🔰📍Made by @TEAM_SILENT_KING 🔰📍. \n\n ⚜️ MY DEV :- @ITS_NOT_ROMEO ⚜️ \n\n ⚡️⚡️ FOR MORE OPEN SOURCE FOLLOW :- [DEVANSH20055](https://github.com/Devansh20055) ON GITHUB ⚡️⚡️ </i></u></b>")
+        "<i><u><b>I'm a specialised bot for shortening <a href=\"https://bit.ly/3pkR1ft\">droplink.co</a> .  </i></u></b>\n\n  <i><u><b> 📍 USE /help FOR MORE 📍  \n\n 🔰📍Made by @TEAM_SILENT_KING 🔰📍. \n\n ⚜️ MY DEV :- @ITS_NOT_ROMEO ⚜️ \n\n ⚡️⚡️ FOR MORE OPEN SOURCE FOLLOW :- [DEVANSH20055](https://github.com/Devansh20055) ON GITHUB ⚡️⚡️ \n\n ‼️ USE /SOURCE FOR SOURCE CODE OF BOT ‼️ </i></u></b> disable_web_page_preview=True ")
 
 @bot.on_message(filters.command('help') & filters.private)
 async def start(bot, message):
       await message.reply(
-          f"**__👻👻 HeLlo {message.chat.first_name} 👻👻.\n Send Your Link 1st❕ I Will Send Short Link 👍 \n\n🔰TRY MY OTHER BOTS 🔰  \n\n ✅ ☞ ᴍᴏᴠɪᴇ ꜱᴇᴀʀᴄʜ ʙᴏᴛ ⭐ ☞ @STORE_FOR_ALL_BOT  \n\n ✅ ☞ ᴅʀᴏᴘʟɪɴᴋ ꜱʜᴏʀᴛ ☞ @DROPLINK_CREATOR_BOT\n\n ✅ ☞ URLSHORTX ☞ @link_shorter_op_bot \n\n  ✅ ☞ OTHER SHORTER ☞ @STORE_FOR_ALL_BOT  \n\n ✅ ☞ Group Manager Bot ☞ @STORE_FOR_ALL_BOT  \n\n 🔰 Powered by TEAM SILENT KING 🔰  \n\n ⚡️⚡️ FOR MORE OPEN SOURCE FOLLOW :- DEVANSH20055 ON GITHUB ⚡️⚡️ __ ")
+          f"**__👻👻 HeLlo {message.chat.first_name} 👻👻.\n Send Your Link 1st❕ I Will Send Short Link 👍 \n\n🔰TRY MY OTHER BOTS 🔰  \n\n ✅ ☞ ᴍᴏᴠɪᴇ ꜱᴇᴀʀᴄʜ ʙᴏᴛ ⭐ ☞ @STORE_FOR_ALL_BOT  \n\n ✅ ☞ ᴅʀᴏᴘʟɪɴᴋ ꜱʜᴏʀᴛ ☞ @DROPLINK_CREATOR_BOT\n\n ✅ ☞ URLSHORTX ☞ @link_shorter_op_bot \n\n  ✅ ☞ OTHER SHORTER ☞ @STORE_FOR_ALL_BOT  \n\n ✅ ☞ Group Manager Bot ☞ @STORE_FOR_ALL_BOT  \n\n 🔰 Powered by TEAM SILENT KING 🔰  \n\n ⚡️⚡️ FOR MORE OPEN SOURCE FOLLOW :- DEVANSH20055 ON GITHUB ⚡️⚡️ __  disable_web_page_preview=True")
 
 
 @bot.on_message(filters.command('source') & filters.private)
