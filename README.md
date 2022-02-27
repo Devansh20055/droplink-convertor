@@ -1,4 +1,4 @@
-# URLSHORTX-bot
+# DROPLINK  CONVERTOR BOT 
 Make short link by using [DROPLINK ](https://bit.ly/3pkR1ft) API key. Made by @ITS_NOT_ROMEO. Give a star 🌟 and fork 🍴 it.
 
 ### New Features!!
