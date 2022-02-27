@@ -47,8 +47,7 @@ async def start(bot, message):
 async def start(bot, message):
     await message.reply(
         f"**Hi {message.chat.first_name}! **\n\n"
-        " **HERE IS THE SOURCE CODE :- \n https://github.com/Devansh20055/droplink-convertor ", disable_web_page_preview=True)
-  "Star ⭐️ THE REPO TOO ** \n\n 🔰📍Made by @TEAM_SILENT_KING 🔰📍. \n\n ⚜️ MY DEV :- @ITS_NOT_ROMEO ⚜️ \n\n ⚡️⚡️ FOR MORE OPEN SOURCE FOLLOW :- [DEVANSH20055](https://github.com/Devansh20055) ON GITHUB ⚡️⚡️ \n\n ‼️ USE /SOURCE FOR SOURCE CODE OF BOT ‼️ </i></u></b>", disable_web_page_preview=True )
+        " **HERE IS THE SOURCE CODE :- \n https://github.com/Devansh20055/droplink-convertor Star ⭐️ THE REPO TOO ** \n\n 🔰📍Made by @TEAM_SILENT_KING 🔰📍. \n\n ⚜️ MY DEV :- @ITS_NOT_ROMEO ⚜️ \n\n ⚡️⚡️ FOR MORE OPEN SOURCE FOLLOW :- [DEVANSH20055](https://github.com/Devansh20055) ON GITHUB ⚡️⚡️ \n\n ‼️ USE /SOURCE FOR SOURCE CODE OF BOT ‼️ </i></u></b>", disable_web_page_preview=True )
 
 
 
