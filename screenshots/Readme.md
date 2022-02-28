@@ -8,6 +8,6 @@
 
 * You can even send more than 1 link in a single message.
 
-<img src="https://github.com/Devansh20055/LINK-SHORTER/blob/main/screenshots/img3.jpg" width="100%"/>
+
 
 * Star this repo and fork it.
