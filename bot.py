@@ -40,7 +40,7 @@ async def start(bot, message):
 @bot.on_message(filters.command('help') & filters.private)
 async def start(bot, message):
       await message.reply(
-          f"**__👻👻 HeLlo {message.chat.first_name} 👻👻.\n Send Your Link 1st❕ I Will Send Short Link 👍 \n\n <u><b><i> 🔰TRY MY OTHER BOTS 🔰  \n\n ✅ ☞ ᴍᴏᴠɪᴇ ꜱᴇᴀʀᴄʜ ʙᴏᴛ ⭐ ☞ @STORE_FOR_ALL_BOT  \n\n ✅ ☞ ᴅʀᴏᴘʟɪɴᴋ ꜱʜᴏʀᴛ ☞ @DROPLINK_CREATOR_BOT\n\n ✅ ☞ URLSHORTX ☞ @link_shorter_op_bot \n\n  ✅ ☞ OTHER SHORTER ☞ @STORE_FOR_ALL_BOT  \n\n ✅ ☞ Group Manager Bot ☞ @STORE_FOR_ALL_BOT  \n\n 🔰 Powered by TEAM SILENT KING 🔰  \n\n ⚡️⚡️ FOR MORE OPEN SOURCE FOLLOW </u></b></i> :- [DEVANSH20055](https://github.com/Devansh20055) ⚡️⚡️ __ ",  disable_web_page_preview=True)
+          f"**__👻👻 HeLlo {message.chat.first_name} 👻👻.\n Send Your Link 1st❕ I Will Send Short Link 👍 \n\n <u><b><i> 🔰TRY MY OTHER BOTS 🔰  \n\n ✅ ☞ ᴍᴏᴠɪᴇ ꜱᴇᴀʀᴄʜ ʙᴏᴛ ⭐ ☞ @STORE_FOR_ALL_BOT  \n\n ✅ ☞ ᴅʀᴏᴘʟɪɴᴋ ꜱʜᴏʀᴛ ☞ @DROPLINK_CREATOR_BOT\n\n ✅ ☞ URLSHORTX ☞ @link_shorter_op_bot \n\n  ✅ ☞ OTHER SHORTER ☞ @STORE_FOR_ALL_BOT  \n\n ✅ ☞ Group Manager Bot ☞ @STORE_FOR_ALL_BOT  \n\n 🔰 Powered by [TEAM SILENT KING 🔰](https://t.me/team_silent_king)  \n\n ⚡️⚡️ FOR MORE OPEN SOURCE FOLLOW </u></b></i> :- [DEVANSH20055](https://github.com/Devansh20055) ⚡️⚡️ __ ",  disable_web_page_preview=True)
 
 
 @bot.on_message(filters.command('source') & filters.private)
