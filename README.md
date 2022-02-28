@@ -26,7 +26,7 @@ Make short link by using [DROPLINK ](https://bit.ly/3pkR1ft) API key. Made by [@
 * Send any link to the bot.
 * Bot will autodetect and send you the shortened url.
 
-<a href="https://github.com/Devansh20055/droplink-convertor/"><img src="https://img.shields.io/badge/See%20Screenshots-white?style=for-the-badge&logo=telegram" width="200"/></a>
+<a href="https://github.com/Devansh20055/droplink-convertor/tree/main/screenshots/"><img src="https://img.shields.io/badge/See%20Screenshots-white?style=for-the-badge&logo=telegram" width="200"/></a>
 
 ### Credits
 
